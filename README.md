@@ -40,7 +40,7 @@ set OPENAI_API_KEY="your-key-here"     # Windows CMD
 5. Open the notebook:
 
 ```bash
-jupyter notebook text_to_SQL_cleaned.ipynb
+jupyter notebook main.ipynb
 ```
 
 ## 📌 License
